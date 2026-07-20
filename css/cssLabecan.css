@@ -337,6 +337,7 @@ footer {
 }
 
 .language-switcher a {
+	display: none;
     text-decoration: none;
     color: #ece4e4;
     font-size: 14px;

@@ -327,6 +327,7 @@ footer {
 
 /* Language Switcher - Versão Minimalista */
 .language-switcher {
+	visibility: hidden;
     margin-top: 8px;
     margin-bottom: 8px;
     margin-left: 10px;
